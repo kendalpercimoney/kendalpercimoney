@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Edify: A daily Bible verse Chrome plugin, Enjoy2: Transform joystick input into keyboard and mouse events (OSX)
-🌱 I’m currently learning React JS, GCP, Kerbenates.
+Tools: Python, Java, React JS, GCP, Kerbenates.
 
 <!--
 **kendalpercimoney/kendalpercimoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
