@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Edify: A daily Bible verse Chrome plugin, Enjoy2: Transform joystick input into keyboard and mouse events (OSX)
+🔭 I’m currently working on Enjoy2: Transform joystick input into keyboard and mouse events (OSX)
 Tools: Python, Java, React JS, GCP, Kerbenates.
 
 <!--
